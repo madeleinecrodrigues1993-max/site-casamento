@@ -1,24 +1,34 @@
 # 💍 Site de Casamento - Madeleine & Fábio
 
+Projeto desenvolvido para reunir informações, confirmações de presença e compartilhamento de momentos especiais do casamento de Madeleine e Fábio.
+
+Este é o meu primeiro projeto web completo, criado utilizando HTML, CSS e JavaScript, e também minha primeira experiência utilizando Inteligência Artificial como ferramenta de apoio ao desenvolvimento e aprendizado.
+
+---
+
 ## 📖 Sobre o Projeto
 
-Este é o meu primeiro projeto de desenvolvimento web, criado para celebrar e compartilhar informações sobre o casamento de Madeleine e Fábio.
+O objetivo deste projeto foi criar um site elegante, responsivo e funcional para os convidados do casamento, centralizando todas as informações importantes do evento em um único lugar.
 
-O site foi desenvolvido utilizando HTML, CSS e JavaScript, com o objetivo de oferecer aos convidados uma experiência simples e agradável, reunindo informações importantes do evento em um único lugar.
+A aplicação permite que os convidados acompanhem a contagem regressiva para o grande dia, confirmem presença, visualizem a localização do evento, compartilhem fotos e realizem contribuições via Pix.
 
-Além de colocar em prática conceitos de desenvolvimento front-end, este projeto também marcou meu primeiro contato com o uso de Inteligência Artificial como ferramenta de apoio ao aprendizado e à programação.
+---
+
+## 📷 Preview
+<img width="1070" height="3329" alt="madeleinecrodrigues1993-max github io_site-casamento_ " src="https://github.com/user-attachments/assets/61768666-850b-4009-b3c7-b1fa54138631" />
 
 ---
 
 ## ✨ Funcionalidades
 
-* ⏳ Contador regressivo para o grande dia.
-* 📍 Localização do evento integrada ao Google Maps.
-* 🎵 Música ambiente com controle de reprodução.
-* ✅ Confirmação de presença através de formulário integrado ao Google Forms.
-* 📸 Compartilhamento de fotos via Google Drive.
-* 🎁 Área para contribuições via Pix.
-* 📱 Layout responsivo para computadores e dispositivos móveis.
+* ⏳ Contador regressivo para a data do casamento.
+* 🎵 Reprodução de música ambiente.
+* 📍 Integração com Google Maps para localização do evento.
+* ✅ Formulário de confirmação de presença integrado ao Google Forms.
+* 📸 Área para compartilhamento de fotos via Google Drive.
+* 🎁 Área para contribuições utilizando Pix.
+* 📱 Layout responsivo para dispositivos móveis e desktops.
+* ❤️ Interface personalizada com identidade visual romântica.
 
 ---
 
@@ -27,41 +37,14 @@ Além de colocar em prática conceitos de desenvolvimento front-end, este projet
 * HTML5
 * CSS3
 * JavaScript (Vanilla JS)
-* Google Maps Embed API
+* Google Maps Embed
 * Google Forms
 * Google Drive
 
 ---
 
-## 🎯 Objetivos de Aprendizado
 
-Durante o desenvolvimento deste projeto pude praticar:
-
-* Estruturação de páginas com HTML.
-* Estilização e responsividade com CSS.
-* Manipulação do DOM com JavaScript.
-* Eventos e interações do usuário.
-* Integração com serviços externos.
-* Organização de arquivos de um projeto web.
-* Utilização da Inteligência Artificial como apoio no processo de aprendizagem e desenvolvimento.
-
----
-
-## 🤖 Uso de Inteligência Artificial
-
-Este projeto foi desenvolvido com auxílio de Inteligência Artificial, utilizada como ferramenta de apoio para:
-
-* Esclarecimento de dúvidas.
-* Sugestões de melhorias no código.
-* Correção de erros.
-* Boas práticas de desenvolvimento.
-* Aprendizado de novas funcionalidades.
-
-Todo o processo serviu como uma experiência de aprendizado, permitindo compreender melhor cada tecnologia utilizada no projeto.
-
----
-
-## 🚀 Como Executar
+## 🚀 Como Executar o Projeto
 
 1. Clone este repositório:
 
@@ -69,26 +52,65 @@ Todo o processo serviu como uma experiência de aprendizado, permitindo compreen
 git clone https://github.com/seu-usuario/seu-repositorio.git
 ```
 
-2. Abra a pasta do projeto.
+2. Acesse a pasta do projeto.
 
-3. Execute o arquivo `index.html` em seu navegador.
+3. Abra o arquivo `index.html` em qualquer navegador moderno.
+
+Não é necessário instalar dependências ou utilizar servidor local.
+
+---
+
+## 🎯 Objetivos de Aprendizado
+
+Durante o desenvolvimento deste projeto foram praticados conceitos importantes de desenvolvimento web:
+
+* Estruturação de páginas utilizando HTML.
+* Estilização e responsividade com CSS.
+* Manipulação do DOM utilizando JavaScript.
+* Eventos e interatividade.
+* Integração com serviços externos.
+* Organização de arquivos e boas práticas de desenvolvimento.
+* Publicação e documentação de projetos no GitHub.
+
+---
+
+## 🤖 Uso de Inteligência Artificial
+
+Este projeto contou com o auxílio de Inteligência Artificial como ferramenta de apoio durante o desenvolvimento.
+
+A IA foi utilizada para:
+
+* Esclarecimento de dúvidas.
+* Sugestões de melhorias.
+* Correção de erros.
+* Aprendizado de boas práticas.
+* Explicação de conceitos de programação.
+
+O objetivo principal foi utilizar a tecnologia como suporte ao aprendizado, compreendendo e aplicando os conceitos apresentados durante a construção do projeto.
 
 ---
 
 ## 📚 Aprendizados
 
-Este projeto representa um marco importante na minha jornada na área de tecnologia, pois foi meu primeiro projeto web completo.
+Este projeto representa um marco importante na minha jornada na área de tecnologia, sendo meu primeiro projeto web completo publicado no GitHub.
 
-Além dos conhecimentos técnicos adquiridos, aprendi a utilizar ferramentas de IA de forma produtiva, entendendo que elas podem acelerar o aprendizado sem substituir a compreensão dos conceitos fundamentais.
+Além dos conhecimentos técnicos adquiridos, a experiência permitiu desenvolver habilidades de pesquisa, resolução de problemas e utilização consciente de ferramentas de Inteligência Artificial no processo de aprendizagem.
 
 ---
 
 ## ❤️ Agradecimentos
 
-Agradeço a todos que contribuíram direta ou indiretamente para este projeto e à Inteligência Artificial, que serviu como uma ferramenta de apoio durante todo o processo de desenvolvimento.
+Agradeço a todos que participaram deste momento especial e contribuíram para o desenvolvimento deste projeto.
+
+Também agradeço às ferramentas de Inteligência Artificial que serviram como apoio durante a construção da aplicação, tornando o processo de aprendizado mais dinâmico e enriquecedor.
 
 ---
 
-### Desenvolvido por Madeleine Cristina Rodrigues
+## 👩‍💻 Desenvolvedora
 
-Primeiro projeto web com apoio de Inteligência Artificial 🚀
+**Madeleine Cristina Rodrigues**
+
+Estudante de Análise e Desenvolvimento de Sistemas.
+
+Primeiro projeto web desenvolvido com HTML, CSS, JavaScript e apoio de Inteligência Artificial.
+
